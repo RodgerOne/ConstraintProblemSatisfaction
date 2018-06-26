@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  Backtracking.cpp
+c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\backtracking.cpp(35): error C2429: element funkcja językowa „instrukcje init w konstrukcji if/switch” wymaga flagi kompilatora „/std:c++17”
+c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\backtracking.cpp(35): error C2059: błąd składniowy: „)”
+c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\backtracking.cpp(35): error C2143: błąd składniowy: brakuje „;” przed „{”
+  Constraint.cpp
+  ForwardChecking.cpp
+  Lab_2a.cpp
+c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\lab_2a.cpp(6): warning C4244: "inicjowanie": konwersja z "std::chrono::system_clock::rep" do "unsigned int", możliwa utrata danych
+c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\lab_2a.cpp(55): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\lab_2a.cpp(82): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\lab_2a.cpp(279): error C3861: "sort": identyfikatora nie odnaleziono
+  Variable.cpp
+c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\variable.cpp(5): error C2039: „debug_id”: Nie jest składową „Variable”
+  c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\variable.h(10): note: zobacz deklarację „Variable”
+c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\variable.cpp(49): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\variable.cpp(50): error C2039: „printDomain”: Nie jest składową „Variable”
+  c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\variable.h(10): note: zobacz deklarację „Variable”
+c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\variable.cpp(52): error C2065: "domain_size": niezadeklarowany identyfikator
+c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\variable.cpp(53): error C2065: "usable": niezadeklarowany identyfikator
+c:\users\roger\onedrive\semestr 6\si\si_2\bt+fc opt\lab_2a\variable.cpp(53): error C2065: "domain": niezadeklarowany identyfikator
